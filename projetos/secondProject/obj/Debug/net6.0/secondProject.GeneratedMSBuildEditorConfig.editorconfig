@@ -1,0 +1,224 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = secondProject
+build_property.RootNamespace = secondProject
+build_property.ProjectDir = C:\Users\diego\Programacao\ADS_2023.2\analise_e_desenvolvimento_de_projetos\projetos\secondProject\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\diego\Programacao\ADS_2023.2\analise_e_desenvolvimento_de_projetos\projetos\secondProject
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/diego/Programacao/ADS_2023.2/analise_e_desenvolvimento_de_projetos/projetos/secondProject/Views/Alert/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWxlcnRcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/diego/Programacao/ADS_2023.2/analise_e_desenvolvimento_de_projetos/projetos/secondProject/Views/Alert/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWxlcnRcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/diego/Programacao/ADS_2023.2/analise_e_desenvolvimento_de_projetos/projetos/secondProject/Views/Alert/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWxlcnRcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/diego/Programacao/ADS_2023.2/analise_e_desenvolvimento_de_projetos/projetos/secondProject/Views/Alert/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWxlcnRcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/diego/Programacao/ADS_2023.2/analise_e_desenvolvimento_de_projetos/projetos/secondProject/Views/Alert/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWxlcnRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/diego/Programacao/ADS_2023.2/analise_e_desenvolvimento_de_projetos/projetos/secondProject/Views/Books/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/diego/Programacao/ADS_2023.2/analise_e_desenvolvimento_de_projetos/projetos/secondProject/Views/Books/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/diego/Programacao/ADS_2023.2/analise_e_desenvolvimento_de_projetos/projetos/secondProject/Views/Books/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/diego/Programacao/ADS_2023.2/analise_e_desenvolvimento_de_projetos/projetos/secondProject/Views/Books/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/diego/Programacao/ADS_2023.2/analise_e_desenvolvimento_de_projetos/projetos/secondProject/Views/Books/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/diego/Programacao/ADS_2023.2/analise_e_desenvolvimento_de_projetos/projetos/secondProject/Views/Catalog/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0YWxvZ1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/diego/Programacao/ADS_2023.2/analise_e_desenvolvimento_de_projetos/projetos/secondProject/Views/Catalog/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0YWxvZ1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/diego/Programacao/ADS_2023.2/analise_e_desenvolvimento_de_projetos/projetos/secondProject/Views/Catalog/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0YWxvZ1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/diego/Programacao/ADS_2023.2/analise_e_desenvolvimento_de_projetos/projetos/secondProject/Views/Catalog/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0YWxvZ1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/diego/Programacao/ADS_2023.2/analise_e_desenvolvimento_de_projetos/projetos/secondProject/Views/Catalog/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0YWxvZ1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/diego/Programacao/ADS_2023.2/analise_e_desenvolvimento_de_projetos/projetos/secondProject/Views/FacultyMember/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFjdWx0eU1lbWJlclxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/diego/Programacao/ADS_2023.2/analise_e_desenvolvimento_de_projetos/projetos/secondProject/Views/FacultyMember/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFjdWx0eU1lbWJlclxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/diego/Programacao/ADS_2023.2/analise_e_desenvolvimento_de_projetos/projetos/secondProject/Views/FacultyMember/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFjdWx0eU1lbWJlclxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/diego/Programacao/ADS_2023.2/analise_e_desenvolvimento_de_projetos/projetos/secondProject/Views/FacultyMember/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFjdWx0eU1lbWJlclxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/diego/Programacao/ADS_2023.2/analise_e_desenvolvimento_de_projetos/projetos/secondProject/Views/FacultyMember/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFjdWx0eU1lbWJlclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/diego/Programacao/ADS_2023.2/analise_e_desenvolvimento_de_projetos/projetos/secondProject/Views/GeneralBook/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VuZXJhbEJvb2tcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/diego/Programacao/ADS_2023.2/analise_e_desenvolvimento_de_projetos/projetos/secondProject/Views/GeneralBook/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VuZXJhbEJvb2tcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/diego/Programacao/ADS_2023.2/analise_e_desenvolvimento_de_projetos/projetos/secondProject/Views/GeneralBook/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VuZXJhbEJvb2tcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/diego/Programacao/ADS_2023.2/analise_e_desenvolvimento_de_projetos/projetos/secondProject/Views/GeneralBook/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VuZXJhbEJvb2tcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/diego/Programacao/ADS_2023.2/analise_e_desenvolvimento_de_projetos/projetos/secondProject/Views/GeneralBook/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VuZXJhbEJvb2tcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/diego/Programacao/ADS_2023.2/analise_e_desenvolvimento_de_projetos/projetos/secondProject/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/diego/Programacao/ADS_2023.2/analise_e_desenvolvimento_de_projetos/projetos/secondProject/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/diego/Programacao/ADS_2023.2/analise_e_desenvolvimento_de_projetos/projetos/secondProject/Views/Librarian/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlicmFyaWFuXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/diego/Programacao/ADS_2023.2/analise_e_desenvolvimento_de_projetos/projetos/secondProject/Views/Librarian/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlicmFyaWFuXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/diego/Programacao/ADS_2023.2/analise_e_desenvolvimento_de_projetos/projetos/secondProject/Views/Librarian/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlicmFyaWFuXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/diego/Programacao/ADS_2023.2/analise_e_desenvolvimento_de_projetos/projetos/secondProject/Views/Librarian/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlicmFyaWFuXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/diego/Programacao/ADS_2023.2/analise_e_desenvolvimento_de_projetos/projetos/secondProject/Views/Librarian/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlicmFyaWFuXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/diego/Programacao/ADS_2023.2/analise_e_desenvolvimento_de_projetos/projetos/secondProject/Views/Member/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/diego/Programacao/ADS_2023.2/analise_e_desenvolvimento_de_projetos/projetos/secondProject/Views/Member/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/diego/Programacao/ADS_2023.2/analise_e_desenvolvimento_de_projetos/projetos/secondProject/Views/Member/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/diego/Programacao/ADS_2023.2/analise_e_desenvolvimento_de_projetos/projetos/secondProject/Views/Member/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/diego/Programacao/ADS_2023.2/analise_e_desenvolvimento_de_projetos/projetos/secondProject/Views/Member/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/diego/Programacao/ADS_2023.2/analise_e_desenvolvimento_de_projetos/projetos/secondProject/Views/ReferenceBook/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVmZXJlbmNlQm9va1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/diego/Programacao/ADS_2023.2/analise_e_desenvolvimento_de_projetos/projetos/secondProject/Views/ReferenceBook/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVmZXJlbmNlQm9va1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/diego/Programacao/ADS_2023.2/analise_e_desenvolvimento_de_projetos/projetos/secondProject/Views/ReferenceBook/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVmZXJlbmNlQm9va1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/diego/Programacao/ADS_2023.2/analise_e_desenvolvimento_de_projetos/projetos/secondProject/Views/ReferenceBook/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVmZXJlbmNlQm9va1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/diego/Programacao/ADS_2023.2/analise_e_desenvolvimento_de_projetos/projetos/secondProject/Views/ReferenceBook/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVmZXJlbmNlQm9va1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/diego/Programacao/ADS_2023.2/analise_e_desenvolvimento_de_projetos/projetos/secondProject/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/diego/Programacao/ADS_2023.2/analise_e_desenvolvimento_de_projetos/projetos/secondProject/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/diego/Programacao/ADS_2023.2/analise_e_desenvolvimento_de_projetos/projetos/secondProject/Views/Student/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/diego/Programacao/ADS_2023.2/analise_e_desenvolvimento_de_projetos/projetos/secondProject/Views/Student/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/diego/Programacao/ADS_2023.2/analise_e_desenvolvimento_de_projetos/projetos/secondProject/Views/Student/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/diego/Programacao/ADS_2023.2/analise_e_desenvolvimento_de_projetos/projetos/secondProject/Views/Student/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/diego/Programacao/ADS_2023.2/analise_e_desenvolvimento_de_projetos/projetos/secondProject/Views/Student/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/diego/Programacao/ADS_2023.2/analise_e_desenvolvimento_de_projetos/projetos/secondProject/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/diego/Programacao/ADS_2023.2/analise_e_desenvolvimento_de_projetos/projetos/secondProject/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/diego/Programacao/ADS_2023.2/analise_e_desenvolvimento_de_projetos/projetos/secondProject/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-d4brx8to77
