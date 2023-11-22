@@ -9,10 +9,11 @@ namespace prova.Models
 {
     public class Categoria
     {
-        [Key, Required, Display(Name = "Codigo")]
-        public int Id;
+        [Display(Name = "Codigo")]
+        public int Id { get; set; }
         [Display(Name = "Nome")]
-        public string Nome;
+        public string Nome { get; set; }
+
         // [Display(Name = "Produtos"), ForeignKey("Produto")]
         // public int ProdutoId { get; set; }
 

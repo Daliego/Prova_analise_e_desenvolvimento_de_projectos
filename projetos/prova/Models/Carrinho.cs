@@ -9,7 +9,7 @@ namespace prova.Models
 {
     public class Carrinho
     {
-        [Key, Required, Display(Name = "Código")]
+        [Required, Display(Name = "Código")]
         public int Id { get; set; }
         // [Display(Name = "Id do Usuario"), ForeignKey("Usuario")]
 
@@ -18,8 +18,8 @@ namespace prova.Models
         public Usuario Usuario { get; set; }
 
 
-        // [ForeignKey("Produto")]
-        // public int ProdutoId { get; set; }
+        [ForeignKey("Produto")]
+        public int ProdutoId { get; set; }
         public List<Produto>? Produtos { get; set; }
     }
 }

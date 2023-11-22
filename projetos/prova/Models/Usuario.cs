@@ -9,7 +9,7 @@ namespace prova.Models
 {
     public class Usuario
     {
-        [Key, Display(Name = "Código")]
+        [Display(Name = "Código")]
         public int Id { get; set; }
         [RegularExpression(@"^([\w\.\-]+)@([\w\-]+)((\.(\w){2,3})+)$")]
         public string Login { get; set; }
@@ -17,8 +17,6 @@ namespace prova.Models
         public string Password { get; set; }
         [Display(Name = "Email")]
         public string Email { get; set; }
-
-        // [ForeignKey("Carrinho")]
 
         [ForeignKey("Carrinho")]
         public int CarrinhoId { get; set; }

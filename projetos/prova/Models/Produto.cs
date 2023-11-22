@@ -11,7 +11,7 @@ namespace prova.Models
 {
     public class Produto
     {
-        [Key, Display(Name = "Código")]
+        [Display(Name = "Código")]
         public int Id { get; set; }
         [Display(Name = "Descricao")]
         public string Descricao { get; set; }
@@ -25,8 +25,8 @@ namespace prova.Models
         [Display(Name = "Categoria"), ForeignKey("Categoria")]
         public int CategoriaId { get; set; }
         public Categoria Categoria { get; set; }
-        // [ForeignKey("Carrinho")]
-        // public int CarrinhoId { get; set; }
+        [ForeignKey("Carrinho")]
+        public int CarrinhoId { get; set; }
         public List<Carrinho>? Carrinhos { get; set; }
     }
 }
